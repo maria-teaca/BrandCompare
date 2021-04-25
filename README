@@ -1,0 +1,20 @@
+# Brand Compare
+
+To get the project running on your local machine, you need to:
+    1. have NodeJS and npm installed
+    2. clone the repository
+    3. execute
+            npm install
+            node .\server.js
+       in the .\back folder
+    4. execute
+            npm install
+            npm start
+       in the .\new_front folder
+    
+A webpage will open on your computer. Enter the API-KEY and hit the Submit button.
+Once you also choose a date, the brand information will be displayed.
+
+Technologies/Frameworks used:
+    - frontend-wise, ReactJS
+    - backend-wise, NodeJS
